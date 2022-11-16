@@ -1,4 +1,4 @@
-from project.task import Task
+from classes_and_objects_exercise.to_do_list.project.task import Task
 
 
 class Section:
