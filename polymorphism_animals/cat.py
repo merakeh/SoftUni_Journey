@@ -1,4 +1,4 @@
-from project.animal import Animal
+from polymorphism_animals.animal import Animal
 
 
 class Cat(Animal):
